@@ -3,7 +3,7 @@
 
 ---
 
-- 🌱 Currently learning **Java, Spring Boot, PHP Backend**
+- 🌱 Currently learning **Java, Spring Boot, PHP, Laravel**
 - 🛠 Tech stack: PHP, JavaScript (Node.js), Java, MySQL
 - 🧠 Interested in automation, system design and API development
 - 💼 Looking for internship opportunities in **Web Backend Development**
@@ -14,7 +14,7 @@
 ### 🔧 Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,java,mysql,nodejs,html,css,git,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,java,mysql,nodejs,html,css,git,linux" />
 </p>
 
 ---
